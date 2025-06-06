@@ -1,11 +1,12 @@
-<!-- index.html -->
 <!DOCTYPE html>
-<html>
+<html lang="ms">
 <head>
-  Selamat Datang
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Halaman Pertama Saya</title>
 </head>
 <body>
-  <h1>Assalamualaikum!</h1>
-  <p>Ini laman web pertama saya menggunakan GitHub Pages.</p>
+  <h1>Hai! Selamat datang ke laman web saya 😄</h1>
+  <p>Ini ialah percubaan pertama saya menggunakan HTML dan GitHub Pages.</p>
 </body>
 </html>
