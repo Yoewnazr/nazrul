@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Selamat Datang</title>
+  Selamat Datang
 </head>
 <body>
   <h1>Assalamualaikum!</h1>
